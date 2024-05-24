@@ -1,4 +1,4 @@
-# GUI-from-the-menu-console-for-Shopping-Management-System
+# Shopping-Management-System (GUI-from-the-menu-console)
 Java/ Java Swing/ OOP
 
 In order to follow inheritance and encapsulation principles, a super-class Product and subclasses Electronics and Clothing must be designed and implemented. Each class should have at least one constructor for each class, including information about the product ID, product name, number of available items, and price. The Electronics subclass should hold specific information and methods, such as brand and warranty period, while the Clothing subclass should have specific information and methods.
